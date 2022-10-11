@@ -145,3 +145,42 @@ body{
   margin-left: 500px;
   color: #1F2937;
 }
+
+.container4{
+    border: #3882f6;
+    padding: 70px;
+    background-color: #3882f6;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    margin-right: 70px;
+    border-radius: 15px;
+    color: white;
+}
+
+.subcontainer4{
+    font-size: 40px;
+    color: white;
+    font-weight: bolder;
+}
+
+.gotham{
+    font-size: 20px;
+}
+
+.join{
+    margin-left: 80px;
+    border: #3882f6;
+    background: white;
+    color: #3882f6;
+    padding: 20px 50px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.sign-up{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px 30px;
+    border: white;
+    font-weight: bold;
+}
